@@ -40,8 +40,7 @@
 			<p>Date - {dateString}</p>
 			<p class="capitalize">Occasion of the presentation: Delhi Meeting</p>
 		</section>
-</article>
-<article class="slides">
+
 		<section>
 			<h2>Introduction</h2>
 			<ul>
