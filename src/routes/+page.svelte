@@ -44,7 +44,7 @@
 			<h2>Introduction</h2>
 			<ul>
 				<li>
-					Introduce the topic of microwave plasma pyrolysis systems for waste treatment
+					Introducing the topic of microwave plasma pyrolysis systems for waste treatment
 				</li>
 				<li>
 					Significance of this technology in Delhi's waste management
