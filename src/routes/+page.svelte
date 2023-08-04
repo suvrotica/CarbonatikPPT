@@ -61,17 +61,17 @@
 		<p>Microwave Plasma Pyrolysis Systems 🔥 for Waste Treatment in Delhi</p>
 		<p class="capitalize">Joseph Kamalesh</p>
 		<p>Date - {dateString}</p>
-		<p class="capitalize">Occasion of the presentation: Investor Meeting</p>
+		<p class="capitalize">Occasion of the presentation: Delhi Meeting</p>
 	</div>
 	<div class="slides">
 		<h2>Introduction</h2>
 		<ul>
-			<li>Briefly introduce the topic of microwave plasma pyrolysis systems for waste treatment</li>
+			<li>Introducing the microwave plasma pyrolysis systems for waste treatment</li>
 			<li>
-				Explain the significance of this technology in the context of Delhi's waste management
+				Significance of this technology in the context of Delhi's waste management
 				problem
 			</li>
-			<li>Highlight that you will be answering 8 key questions from the investors</li>
+			<li>Answering 8 key questions for the Assembly</li>
 		</ul>
 	</div>
 	<div class="slides">
