@@ -33,13 +33,15 @@
 </script>
 
 <div class="reveal">
-	<div class="slides">
+	<article class="slides">
 		<section>
 			<p>Microwave Plasma Pyrolysis Systems 🔥 for Waste Treatment in Delhi</p>
 			<p class="capitalize">Joseph Kamalesh</p>
 			<p>Date - {dateString}</p>
 			<p class="capitalize">Occasion of the presentation: Delhi Meeting</p>
 		</section>
+</article>
+<article class="slides">
 		<section>
 			<h2>Introduction</h2>
 			<ul>
@@ -52,7 +54,7 @@
 				<li>Highlighted as answers to 8 key questions</li>
 			</ul>
 		</section>
-	</div>
+	</article>
 </div>
 <!-- 
 <div class="reveal">
