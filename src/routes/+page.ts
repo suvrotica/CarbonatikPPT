@@ -1,1 +1,1 @@
-export const ssr = 'deferred';
+export const ssr = false;
