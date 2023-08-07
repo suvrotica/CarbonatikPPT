@@ -44,17 +44,30 @@
 		<section>
 			<h2>Introduction</h2>
 			<ul>
-				<li>
-					Introducing the topic of microwave plasma pyrolysis systems for waste treatment
-				</li>
-				<li>
-					Significance of this technology in Delhi's waste management
-				</li>
+				<li>Introducing the topic of microwave plasma pyrolysis systems for waste treatment</li>
+				<li>Significance of this technology in Delhi's waste management</li>
 				<li>Highlighted as answers to 8 key questions</li>
 			</ul>
 		</section>
+
+		<section>
+			<!-- svelte-ignore a11y-missing-attribute -->
+
+			<iframe
+				width="560"
+				height="315"
+				src="https://www.youtube.com/embed/2gLRFuX5yNE"
+				title="YouTube video player"
+				frameborder="0"
+				allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
+				allowfullscreen
+				data-preload
+			/>
+		</section>
 	</article>
 </div>
+tion>
+
 <!-- 
 <div class="reveal">
 	<div class="slides">
