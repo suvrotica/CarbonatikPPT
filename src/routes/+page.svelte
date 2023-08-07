@@ -49,18 +49,6 @@
 				<li>Highlighted as answers to 8 key questions</li>
 			</ul>
 		</section>
-
-		<section>
-			<!-- svelte-ignore a11y-missing-attribute -->
-
-			<iframe
-				width="560"
-				height="315"
-				src="https://www.youtube.com/embed/2gLRFuX5yNE"
-				title="YouTube video player"
-				frameborder="5"
-			/>
-		</section>
 	</article>
 </div>
 tion>
