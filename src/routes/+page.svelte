@@ -34,25 +34,27 @@
 </script>
 
 <style>
-    
+    body {
+        background-color: darkgray;
+    }
     p {
-        font-family: 'Poppins', sans-serif;
+        font-size: 1.5em;
+        font-family: 'Arial', sans-serif;
     }
     h1, h2 {
-        font-family: 'Poppins', sans-serif;
+        font-family: 'Arial', sans-serif;
     }
 </style>
 
 <div class="reveal">
     <div class="slides">
         <section data-markdown>
-<script type="text/template">
-  
-                
-                ## Achieving Health Information Exchange (HIE) with Open Source Solutions
+            <script type="text/template">
+                ---
+                # Achieving Health Information Exchange (HIE) with Open Source Solutions
                 ### An In-depth Analysis
                 **Presenter’s Name**  
-                **Date** {dateString} 
+                **Date**
                 ---
                 ## Understanding Health Information Exchange (HIE)
                 - Definition of Health Information Exchange (HIE)
@@ -61,10 +63,7 @@
                 ## Open Source Solutions: Introduction to OpenHIE
                 - Unveiling OpenHIE as an open-source platform for HIE
                 - Advantages of utilizing open source solutions in HIE
-                </script>
-  </textarea>
+            </script>
         </section>
-
-
     </div>
 </div>
