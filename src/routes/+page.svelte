@@ -41,7 +41,7 @@ controlsLayout: 'center',
 </script>
 
 
-<div class="reveal">
+<main class="reveal">
 	
 	<article class="slides">
 		<section>
@@ -88,13 +88,14 @@ controlsLayout: 'center',
 
 
 
-</div>
+</main>
 
 <style>
 
 main {
 
 -family: 'Poppins', sans-serif;
+margin :10px;
     
 } 
     .reveal section h1, .reveal section h2, .reveal section h3 {
