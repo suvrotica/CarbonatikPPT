@@ -85,7 +85,7 @@
 main {
 
 -family: 'Poppins', sans-serif;
-    }
+    
 } 
     .reveal section h1, .reveal section h2, .reveal section h3 {
         font-size: 1.5rem;
