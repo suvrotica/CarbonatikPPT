@@ -37,7 +37,7 @@
     body {
         background-color: darkgray;
     }
-    p {
+    p, li {
         font-size: 1.5em;
         font-family: 'Arial', sans-serif;
     }
@@ -49,21 +49,28 @@
 <div class="reveal">
     <div class="slides">
         <section data-markdown>
-            <script type="text/template">
-                ---
-                # Achieving Health Information Exchange (HIE) with Open Source Solutions
-                ### An In-depth Analysis
-                **Presenter’s Name**  
-                **Date**
-                ---
-                ## Understanding Health Information Exchange (HIE)
-                - Definition of Health Information Exchange (HIE)
-                - Significance of HIE in modern healthcare
-                ---
-                ## Open Source Solutions: Introduction to OpenHIE
-                - Unveiling OpenHIE as an open-source platform for HIE
-                - Advantages of utilizing open source solutions in HIE
-            </script>
+        ```
+        # Achieving Health Information Exchange (HIE) with Open Source Solutions
+        ### An In-depth Analysis
+        **Presenter’s Name**  
+        **Date**
+        ```
+        </section>
+
+        <section data-markdown>
+        ```
+        ## Understanding Health Information Exchange (HIE)
+        - Definition of Health Information Exchange (HIE)
+        - Significance of HIE in modern healthcare
+        ```
+        </section>
+
+        <section data-markdown>
+        ```
+        ## Open Source Solutions: Introduction to OpenHIE
+        - Unveiling OpenHIE as an open-source platform for HIE
+        - Advantages of utilizing open source solutions in HIE
+        ```
         </section>
     </div>
 </div>
