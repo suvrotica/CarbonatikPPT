@@ -39,6 +39,13 @@
 			<h3>Suvro Ghosh</h3>
 			<h4>Date {dateString} </h4>
 		</section>
+<section>
+	<h2>Introduction to HIE</h2>
+	<ul>
+		<li>Understanding Health Information Exchange (HIE)</li>
+		<li>Significance of HIE in Healthcare</li>
+	</ul>
+</section>
 
 		<!-- ...other slides... -->
 
