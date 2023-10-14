@@ -91,7 +91,7 @@ controlsLayout: 'center',
 </main>
 
 <style>
-main {
+main, header {
     overflow: hidden;
   
     padding: 20px;
