@@ -79,3 +79,32 @@
 
 	</article>
 </main>
+
+<style>
+    .reveal section h1, .reveal section h2, .reveal section h3 {
+        font-size: 1.5rem;
+    }
+
+    .reveal section p, .reveal section li {
+        font-size: 1rem;
+        margin-bottom: 0.5rem;
+    }
+
+    .reveal section ul {
+        padding-left: 1.5rem;
+    }
+
+    .reveal section article {
+        margin-bottom: 1rem;
+    }
+
+    .reveal section {
+        display: flex;
+        flex-direction: column;
+        justify-content: center;
+        align-items: flex-start;
+        height: 100%;
+        padding: 1rem;
+    }
+</style>
+
