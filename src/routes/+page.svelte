@@ -46,35 +46,27 @@
 <div class="reveal">
     <div class="slides">
         <section data-markdown>
-            <script type="text/template">
+
+  <textarea data-template>
+            
                 
-                # Achieving Health Information Exchange (HIE) with Open Source Solutions
+                
+                ## Achieving Health Information Exchange (HIE) with Open Source Solutions
                 ### An In-depth Analysis
                 **Presenter’s Name**  
-                **Date: **{dateString} 
-                
-                </script>
-        </section>
-<section data-markdown>
-            <script type="text/template">
-                
-                
-                
+                **Date** {dateString} 
+                ---
                 ## Understanding Health Information Exchange (HIE)
                 - Definition of Health Information Exchange (HIE)
                 - Significance of HIE in modern healthcare
-                
-                 </script>
-        </section>
-<section data-markdown>
-            <script type="text/template">
-                
-                
+                ---
                 ## Open Source Solutions: Introduction to OpenHIE
                 - Unveiling OpenHIE as an open-source platform for HIE
                 - Advantages of utilizing open source solutions in HIE
-            </script>
+                
+  </textarea>
         </section>
+
 
     </div>
 </div>
