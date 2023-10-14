@@ -42,7 +42,7 @@
 <section>
 	<h2>Introduction to HIE</h2>
 	<ul>
-		<li>Understanding Health Information Exchange (HIE)</li>
+		<li>Understanding (HIE)</li>
 		<li>Significance of HIE in Healthcare</li>
 	</ul>
 </section>
@@ -75,7 +75,7 @@
   }
 
   .slides section {
-    padding: 20px;
+    padding: 2px;
     background-color: #2e2e2e;
     color: #ffffff;
     border-radius: 10px;
@@ -86,11 +86,12 @@
   .slides section h2,
   .slides section h3 {
     color: #ecf0f1;
-    margin-bottom: 20px;
+    margin-bottom: 2px;
+font-size:20px
   }
 
   .slides section p {
-    margin-bottom: 10px;
+    margin-bottom: 2px;
     line-height: 1.6;
     font-size:20px; 
   }
