@@ -67,11 +67,13 @@
   .slides section h1,
   .slides section h2,
   .slides section h3 {
-    color: #2c3e50;
+    color: black;
     margin-bottom: 20px;
   }
 
   .slides section p {
+font-size :20:
+font-color :white;
     margin-bottom: 10px;
     line-height: 1.6;
   }
