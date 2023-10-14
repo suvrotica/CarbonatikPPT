@@ -91,13 +91,13 @@ main {
     
 } 
     .reveal section h1, .reveal section h2, .reveal section h3 {
-        font-size: 1.5rem;
+        font-size: 3rem;
     }
 
     .reveal section p, .reveal section li {
 
         font-size: 2rem;
-        margin-bottom: 5px;
+        margin: 5px;
     }
 
     .reveal section ul {
