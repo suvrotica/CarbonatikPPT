@@ -38,30 +38,40 @@
 
 
 <div class="reveal">
-    <div class="slides">
-        <section data-markdown>
-            
-                # Achieving Health Information Exchange (HIE) with Open Source Solutions
-                ### An In-depth Analysis
-                **Presenter’s Name**  
-                **Date**
-            
-        </section>
+	<article class="slides">
+		<section>
+			<h1>Achieving Health Information Exchange (HIE) with Open Source Solutions</h1>
+			<h2>An In-depth Analysis</h2>
+			<p>Suvro Ghosh</p>
+			<p>Date: </p>{dateString} 
+		</section>
 
-        <section data-markdown>
-            
-                ## Understanding Health Information Exchange (HIE)
-                - Definition of Health Information Exchange (HIE)
-                - Significance of HIE in modern healthcare
-            
-        </section>
+	<section>
+	<h2>Introduction to HIE</h2>
+	<ul>
+		<li>Understanding Health Information Exchange (HIE)</li>
+		<li>Significance of HIE in Healthcare</li>
+	</ul>
+</section>
+<section>
+    <header>
+        <h2>Open Source Solutions</h2>
+    </header>
+    <article>
+        <h3>Introduction to OpenHIE</h3>
+        <p>OpenHIE, or Open Health Information Exchange, is an initiative that helps guide countries in developing HIEs to improve healthcare delivery. It’s essentially a framework rather than a software, which countries can use to create a suitable HIE based on their unique needs.</p>
+    </article>
+    <article>
+        <h3>Advantages of Open Source in HIE</h3>
+        <ul>
+            <li>Cost-Effectiveness: Lower upfront costs compared to proprietary solutions.</li>
+            <li>Flexibility and Customizability: Can be tailored to meet specific needs and requirements.</li>
+            <li>Community Support: Backed by a community of developers for support and continuous improvement.</li>
+            <li>Transparency: Open standards and codes ensure transparency and interoperability.</li>
+        </ul>
+    </article>
+</section>
 
-        <section data-markdown>
-            
-                ## Open Source Solutions: Introduction to OpenHIE
-                - Unveiling OpenHIE as an open-source platform for HIE
-                - Advantages of utilizing open source solutions in HIE
-            
-        </section>
-    </div>
+
+	</article>
 </div>
