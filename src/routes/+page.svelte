@@ -40,40 +40,48 @@
 <main class="reveal">
 	<article class="slides">
 		<section>
-<header>
-			<h1>Achieving Health Information Exchange (HIE) with Open Source Solutions</h1>
-			<h2>An In-depth Analysis</h2>
-</header>
-			<p>Suvro Ghosh</p>
-			<p>Date: {dateString} </p>
+<header><div class="reveal">
+	<article class="slides">
+		<section>
+			<h2>Tools & Resources</h2>
+			<ul>
+				<li>Digital Square TCO Tool</li>
+				<li>Instant OpenHIE</li>
+				<li>WHO DIIG</li>
+				<!-- ... other items -->
+			</ul>
+			<aside class="notes">
+				<p>Explanation of each tool and how it contributes to the OpenHIE framework.</p>
+			</aside>
 		</section>
+		<section>
+			<h2>Framework Foundation</h2>
+			<p>Standards and best practices form a comprehensive HIE system foundation.</p>
+			<aside class="notes">
+				<p>Detailed explanation of how standards and best practices are utilized in OpenHIE.</p>
+			</aside>
+		</section>
+		<section>
+			<h2>Key Attributes</h2>
+			<ul>
+				<li>Standards-Based: Best practices and international standards adoption.</li>
+				<li>Implementable: Provides foundational patterns for complex systems.</li>
+				<li>Modular: Tailored solutions for community needs.</li>
+			</ul>
+			<aside class="notes">
+				<p>Detailed discussion on each attribute and its significance.</p>
+			</aside>
+		</section>
+		<section>
+			<h2>The Architecture</h2>
+			<p>OpenHIE architecture facilitates unified health data sharing across systems.</p>
+			<aside class="notes">
+				<p>Explanation of how OpenHIE architecture normalizes health information context, integrates medical supply data, and enhances decision-making.</p>
+			</aside>
+		</section>
+	</article>
+</div>
 
-	<section>
-<header>
-	<h2>Introduction to HIE</h2>
-</header>
-	<ul>
-		<li>Understanding Health Information Exchange (HIE)</li>
-		<li>Significance of HIE in Healthcare</li>
-	</ul>
-</section>
-<section>
-    <header>
-        <h2>Open Source Solutions</h2>
-    </header>
-    <article>
-        <h3>Introduction to OpenHIE</h3>
-        <p>OpenHIE, or Open Health Information Exchange, is an initiative that helps guide countries in developing HIEs to improve healthcare delivery. It’s essentially a framework rather than a software, which countries can use to create a suitable HIE based on their unique needs.</p>
-    </article>
-    <article>
-        <h3>Advantages of Open Source in HIE</h3>
-        <ul>
-            <li>Cost-Effectiveness: Lower upfront costs compared to proprietary solutions.</li>
-            <li>Flexibility and Customizability: Can be tailored to meet specific needs and requirements.</li>
-            <li>Community Support: Backed by a community of developers for support and continuous improvement.</li>
-            <li>Transparency: Open standards and codes ensure transparency and interoperability.</li>
-        </ul>
-    </article>
 </section>
 
 
