@@ -12,7 +12,7 @@
     let deck;
     onMount(() => {
         deck = new Reveal({
-            plugins: [Markdown, Highlight, Notes],
+            plugins: [RevealMarkdown, Highlight, Notes],
             autoAnimateEasing: 'ease',
             autoAnimateDuration: 1,
             hash: true,
@@ -33,18 +33,6 @@
     let dateString = today.toLocaleDateString('en-US', options);
 </script>
 
-<style>
-    body {
-        background-color: darkgray;
-    }
-    p, li {
-        font-size: 1.5em;
-        font-family: 'Arial', sans-serif;
-    }
-    h1, h2 {
-        font-family: 'Arial', sans-serif;
-    }
-</style>
 
 <div class="reveal">
     <div class="slides">
