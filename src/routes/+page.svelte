@@ -37,17 +37,21 @@
 </script>
 
 
-<div class="reveal">
+<main class="reveal">
 	<article class="slides">
 		<section>
+<header>
 			<h1>Achieving Health Information Exchange (HIE) with Open Source Solutions</h1>
 			<h2>An In-depth Analysis</h2>
+</header>
 			<p>Suvro Ghosh</p>
 			<p>Date: </p>{dateString} 
 		</section>
 
 	<section>
+<header>
 	<h2>Introduction to HIE</h2>
+</header>
 	<ul>
 		<li>Understanding Health Information Exchange (HIE)</li>
 		<li>Significance of HIE in Healthcare</li>
@@ -74,4 +78,4 @@
 
 
 	</article>
-</div>
+</main>
