@@ -61,14 +61,17 @@ controlsLayout: 'center',
 		
 		
 <section>
-            <header>
+<section>
+<header>
                 <h2>Open Source Solutions</h2>
             </header>
             <article>
                 <h3>Introduction to OpenHIE</h3>
                 <p>OpenHIE, or Open Health Information Exchange, is an initiative that helps guide countries in developing HIEs to improve healthcare delivery. It’s essentially a framework rather than a software, which countries can use to create a suitable HIE based on their unique needs.</p>
             </article>
-            <article>
+<section>
+<section>
+<article>
                 <h3>Advantages of Open Source in HIE</h3>
                 <ul>
                     <li>Cost-Effectiveness: Lower upfront costs compared to proprietary solutions.</li>
@@ -77,6 +80,9 @@ controlsLayout: 'center',
                     <li>Transparency: Open standards and codes ensure transparency and interoperability.</li>
                 </ul>
             </article>
+<section>
+            
+            
         </section>
 	</article>
 
