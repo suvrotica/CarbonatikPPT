@@ -45,14 +45,25 @@ controlsLayout: 'center',
 	
 	<article class="slides">
 		<section>
-            <h1>Achieving Health Information Exchange (HIE) with Open Source Solutions</h1>
-            <h2>An In-depth Analysis</h2>
+<header>
+<h1>Achieving Health Information Exchange (HIE) with Open Source Solutions</h1>
+         
+
+
+</header>
+               <h2>An In-depth Analysis</h2>
             <p>Suvro Ghosh</p>
             <p>Date: {dateString}</p>
         </section>
 
         <section>
-            <h2>Introduction to HIE</h2>
+<header>
+<h2>Introduction to HIE</h2>
+
+
+</header>
+
+            
             <ul>
                 <li>Understanding Health Information Exchange (HIE)</li>
                 <li>Significance of HIE in Healthcare</li>
@@ -72,7 +83,10 @@ controlsLayout: 'center',
 </section>
 <section>
 <article>
+<header>
                 <h3>Advantages of Open Source in HIE</h3>
+                 
+</header>
                 <ul>
                     <li>Cost-Effectiveness: Lower upfront costs compared to proprietary solutions.</li>
                     <li>Flexibility and Customizability: Can be tailored to meet specific needs and requirements.</li>
