@@ -91,8 +91,11 @@ controlsLayout: 'center',
 </main>
 
 <style>
-
 main {
+    overflow: hidden;
+  
+    padding: 20px;
+  
 
 -family: 'Poppins', sans-serif;
 margin :10px;
