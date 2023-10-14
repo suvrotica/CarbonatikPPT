@@ -86,16 +86,16 @@
     }
 
     .reveal section p, .reveal section li {
-        font-size: 1rem;
-        margin-bottom: 0.5rem;
+        font-size: 1.5rem;
+        margin-bottom: 5px;
     }
 
     .reveal section ul {
-        padding-left: 1.5rem;
+        padding-left: 5px;
     }
 
     .reveal section article {
-        margin-bottom: 1rem;
+        margin-bottom: 5px;
     }
 
     .reveal section {
@@ -104,7 +104,7 @@
         justify-content: center;
         align-items: flex-start;
         height: 100%;
-        padding: 1rem;
+        padding: 5px;
     }
 </style>
 
