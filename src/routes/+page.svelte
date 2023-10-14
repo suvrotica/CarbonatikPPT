@@ -12,12 +12,12 @@
     let deck;
     onMount(() => {
         deck = new Reveal({
-            plugins: [RevealMarkdown, Highlight, Notes],
+            plugins: [Markdown, Highlight, Notes],
             autoAnimateEasing: 'ease',
             autoAnimateDuration: 1,
             hash: true,
-            controls: false,
-            progress: false
+            controls: true,
+            progress: true
         });
 
         deck.initialize();
@@ -37,28 +37,28 @@
 <div class="reveal">
     <div class="slides">
         <section data-markdown>
-            <textarea data-template>
+            
                 # Achieving Health Information Exchange (HIE) with Open Source Solutions
                 ### An In-depth Analysis
                 **Presenter’s Name**  
                 **Date**
-            </textarea>
+            
         </section>
 
         <section data-markdown>
-            <textarea data-template>
+            
                 ## Understanding Health Information Exchange (HIE)
                 - Definition of Health Information Exchange (HIE)
                 - Significance of HIE in modern healthcare
-            </textarea>
+            
         </section>
 
         <section data-markdown>
-            <textarea data-template>
+            
                 ## Open Source Solutions: Introduction to OpenHIE
                 - Unveiling OpenHIE as an open-source platform for HIE
                 - Advantages of utilizing open source solutions in HIE
-            </textarea>
+            
         </section>
     </div>
 </div>
