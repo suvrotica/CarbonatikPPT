@@ -38,9 +38,7 @@
 
 
 <main class="reveal">
-	<article class="slides">
-		<section>
-<header><div class="reveal">
+	
 	<article class="slides">
 		<section>
 			<h2>Tools & Resources</h2>
@@ -80,12 +78,9 @@
 			</aside>
 		</section>
 	</article>
-</div>
-
-</section>
 
 
-	</article>
+
 </main>
 
 <style>
