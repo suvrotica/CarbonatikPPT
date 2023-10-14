@@ -74,7 +74,7 @@
   .slides section p {
     margin-bottom: 10px;
     line-height: 1.6;
-    font-size: 1.5em; /* Increased font size */
+    font-size: 1.5em; 
   }
 
   .slides section ul {
@@ -82,6 +82,7 @@
   }
 
   .slides section ul li {
+font-size: 1.5em; 
     margin-bottom: 10px;
     list-style-type: disc;
     margin-left: 20px;
