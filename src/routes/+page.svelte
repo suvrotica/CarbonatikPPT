@@ -18,7 +18,7 @@
             hash: true,
             controls: true,
             progress: true,
-controlsLayout: 'bottom-right',
+controlsLayout: 'edges',
         markdown: {
             smartypants: true
         }
