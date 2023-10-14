@@ -20,6 +20,7 @@
 	<link rel="stylesheet" href="/node_modules/reveal.js/dist/reveal.css" />
 	<link rel="stylesheet" href="/node_modules/reveal.js/dist/theme/black.css" />
 </svelte:head>
-<main>
+
+
 <slot />
-</main>
+
