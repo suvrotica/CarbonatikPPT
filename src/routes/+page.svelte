@@ -41,7 +41,7 @@ controlsLayout: 'center',
 </script>
 
 
-<main class="reveal">
+<div class="reveal">
 	
 	<article class="slides">
 		<section>
@@ -88,7 +88,7 @@ controlsLayout: 'center',
 
 
 
-</main>
+</div>
 
 <style>
 
