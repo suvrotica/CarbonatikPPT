@@ -58,8 +58,8 @@
 
   .slides section {
     padding: 20px;
-    background-color: #ffffff;
-    color: #333333;
+    background-color: #2e2e2e;
+    color: #ffffff;
     border-radius: 10px;
     box-shadow: 0 0 10px rgba(0,0,0,0.1);
   }
@@ -67,15 +67,14 @@
   .slides section h1,
   .slides section h2,
   .slides section h3 {
-    color: black;
+    color: #ecf0f1;
     margin-bottom: 20px;
   }
 
   .slides section p {
-font-size :20:
-font-color :white;
     margin-bottom: 10px;
     line-height: 1.6;
+    font-size: 1.5em; /* Increased font size */
   }
 
   .slides section ul {
@@ -92,4 +91,3 @@ font-color :white;
     text-transform: capitalize;
   }
 </style>
-
