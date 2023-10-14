@@ -45,7 +45,7 @@
 			<h2>An In-depth Analysis</h2>
 </header>
 			<p>Suvro Ghosh</p>
-			<p>Date: </p>{dateString} 
+			<p>Date: {dateString} </p>
 		</section>
 
 	<section>
@@ -81,12 +81,19 @@
 </main>
 
 <style>
+
+main {
+
+-family: 'Poppins', sans-serif;
+    }
+} 
     .reveal section h1, .reveal section h2, .reveal section h3 {
         font-size: 1.5rem;
     }
 
     .reveal section p, .reveal section li {
-        font-size: 1.5rem;
+
+        font-size: 2rem;
         margin-bottom: 5px;
     }
 
