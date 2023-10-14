@@ -110,8 +110,7 @@ main, header {
   
     padding: 20px;
   
-
--family: 'Poppins', sans-serif;
+font-family: 'Poppins', sans-serif;
 margin :10px;
     
 } 
