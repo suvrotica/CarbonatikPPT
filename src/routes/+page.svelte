@@ -92,7 +92,7 @@
   .slides section p {
     margin-bottom: 10px;
     line-height: 1.6;
-    font-size: 1.5em; 
+    font-size:20px; 
   }
 
   .slides section ul {
