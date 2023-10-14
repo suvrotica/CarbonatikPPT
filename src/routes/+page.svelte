@@ -36,8 +36,8 @@
 		<section>
 			<h1>Health Information Exchange</h1>
 			<h2>An Implementation Overview</h2>
-			<h3>Suvro Ghosh</h3>
-			<h4>Date {dateString} </h4>
+			<p>Suvro Ghosh</p>
+			<p>Date {dateString} </p>
 		</section>
 <section>
 	<h2>Introduction to HIE</h2>
@@ -51,4 +51,43 @@
 
 	</article>
 </div>
+<style>
+  .reveal {
+    font-family: 'Arial', sans-serif;
+  }
+
+  .slides section {
+    padding: 20px;
+    background-color: #ffffff;
+    color: #333333;
+    border-radius: 10px;
+    box-shadow: 0 0 10px rgba(0,0,0,0.1);
+  }
+
+  .slides section h1,
+  .slides section h2,
+  .slides section h3 {
+    color: #2c3e50;
+    margin-bottom: 20px;
+  }
+
+  .slides section p {
+    margin-bottom: 10px;
+    line-height: 1.6;
+  }
+
+  .slides section ul {
+    margin-bottom: 20px;
+  }
+
+  .slides section ul li {
+    margin-bottom: 10px;
+    list-style-type: disc;
+    margin-left: 20px;
+  }
+
+  .capitalize {
+    text-transform: capitalize;
+  }
+</style>
 
