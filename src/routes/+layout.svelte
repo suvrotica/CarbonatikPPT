@@ -21,19 +21,12 @@
 	<link rel="stylesheet" href="/node_modules/reveal.js/dist/theme/black.css" />
 
 </svelte:head>
-<style>
-body {
-    overflow: hidden;
-  }
 
-  .container {
-    padding: 20px;
-  }
-</style>
 
-<div class="container">
+
+
   <slot />
-</div>
+
 
 
 
