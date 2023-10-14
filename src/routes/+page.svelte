@@ -18,6 +18,7 @@
             hash: true,
             controls: true,
             progress: true,
+transition: 'fade', 
 controlsLayout: 'center',
         markdown: {
             smartypants: true
