@@ -34,10 +34,10 @@
 <div class="reveal">
 	<article class="slides">
 		<section>
-			<h1>Achieving Health Information Exchange (HIE) with Open Source Solutions</h1>
-			<h3>An In-depth Analysis</h3>
-			<p>Presenter's Name</p>
-			<p>Date</p>
+			<h1>Health Information Exchange</h1>
+			<h3>An Implementation Overview</h3>
+			<p>Suvro Ghosh</p>
+			<p>Date {dateString} </p>
 		</section>
 
 		<!-- ...other slides... -->
