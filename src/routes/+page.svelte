@@ -35,9 +35,9 @@
 	<article class="slides">
 		<section>
 			<h1>Health Information Exchange</h1>
-			<h3>An Implementation Overview</h3>
-			<p>Suvro Ghosh</p>
-			<p>Date {dateString} </p>
+			<h2>An Implementation Overview</h2>
+			<h3>Suvro Ghosh</h3>
+			<h4>Date {dateString} </h4>
 		</section>
 
 		<!-- ...other slides... -->
