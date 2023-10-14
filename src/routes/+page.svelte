@@ -17,7 +17,8 @@
             autoAnimateDuration: 1,
             hash: true,
             controls: true,
-            progress: false,
+            progress: true,
+controlsLayout: 'bottom-right',
         markdown: {
             smartypants: true
         }
