@@ -16,7 +16,7 @@
             autoAnimateEasing: 'ease',
             autoAnimateDuration: 1,
 slideNumber: "c/t",
-disableLayout: true,
+disableLayout: false,
             hash: true,
             controls: true,
             progress: true,
