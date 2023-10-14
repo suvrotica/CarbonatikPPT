@@ -71,7 +71,13 @@
 </div>
 <style>
   .reveal {
-    font-family: 'Arial', sans-serif;
+    
+background-color: #2c2c2c;
+        color: #ffffff;
+        font-family: 'Poppins', sans-serif;
+        -webkit-font-smoothing: antialiased;
+        -moz-osx-font-smoothing: grayscale;
+    
   }
 
   .slides section {
