@@ -46,10 +46,8 @@
 <div class="reveal">
     <div class="slides">
         <section data-markdown>
-
-  <textarea data-template>
-            
-                
+<script type="text/template">
+  
                 
                 ## Achieving Health Information Exchange (HIE) with Open Source Solutions
                 ### An In-depth Analysis
@@ -63,7 +61,7 @@
                 ## Open Source Solutions: Introduction to OpenHIE
                 - Unveiling OpenHIE as an open-source platform for HIE
                 - Advantages of utilizing open source solutions in HIE
-                
+                </script>
   </textarea>
         </section>
 
