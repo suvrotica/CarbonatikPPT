@@ -92,11 +92,11 @@ main {
     
 } 
     .reveal section h1, .reveal section h2, .reveal section h3 {
-        
+        font-size:1rem;
     }
 
     .reveal section p, .reveal section li {
-
+font-size:1rem;
         
         margin: 5px;
     }
@@ -106,6 +106,7 @@ main {
     }
 
     .reveal section article {
+font-size:1rem;
         margin: 5px;
     }
 
@@ -118,6 +119,6 @@ main {
         padding: 5px;
     }
 .reveal .controls {
-    right: 30%;
+    right: 30%;}
 </style>
 
