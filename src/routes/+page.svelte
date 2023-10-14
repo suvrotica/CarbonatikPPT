@@ -116,5 +116,7 @@ main {
         height: 100%;
         padding: 5px;
     }
+.reveal .controls {
+    right: 10%;
 </style>
 
