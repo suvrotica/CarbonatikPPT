@@ -15,6 +15,7 @@
             plugins: [Markdown, Highlight, Notes],
             autoAnimateEasing: 'ease',
             autoAnimateDuration: 1,
+slideNumber: true,
             hash: true,
             controls: true,
             progress: true,
