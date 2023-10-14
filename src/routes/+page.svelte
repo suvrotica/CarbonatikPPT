@@ -17,7 +17,10 @@
             autoAnimateDuration: 1,
             hash: true,
             controls: true,
-            progress: true
+            progress: false,
+        markdown: {
+            smartypants: true
+        }
         });
 
         deck.initialize();
