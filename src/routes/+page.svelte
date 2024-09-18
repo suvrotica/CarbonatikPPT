@@ -75,6 +75,7 @@ controlsLayout: 'center',
                 <header>
                     <h2>2. The Non-Response Problem</h2>
                 </header>
+<img src="napkin-selection (4).png"/>
                 <ul>
                     <li><strong>Definition</strong>: <em>Non-response</em> occurs when selected participants do not provide information.</li>
                     <li><strong>Significance</strong>:
