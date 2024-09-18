@@ -18,7 +18,7 @@
 
 <svelte:head>
 	<link rel="stylesheet" href="/node_modules/reveal.js/dist/reveal.css" />
-	<link rel="stylesheet" href="/node_modules/reveal.js/dist/theme/black.css" />
+	<link rel="stylesheet" href="/node_modules/reveal.js/dist/theme/league.css" />
 
 </svelte:head>
 
