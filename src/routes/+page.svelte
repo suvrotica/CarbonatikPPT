@@ -321,6 +321,26 @@ controlsLayout: 'center',
 
 
 <style>
+.reveal img {
+  display: inline-block;
+  max-width: 80%;  /* Limits the image width to 80% of its container */
+  max-height: 60vh;  /* Limits the image height to 60% of the viewport height */
+  width: auto;  /* Maintains aspect ratio */
+  height: auto;  /* Maintains aspect ratio */
+  margin: 20px auto;  /* Centers the image and adds some vertical spacing */
+}
+
+
+.reveal .compact-image img {
+  max-width: 60%;
+  max-height: 50vh;
+}
+
+
+.reveal .large-image img {
+  max-width: 90%;
+  max-height: 70vh;
+}
 main, header {
     overflow: hidden;
   
