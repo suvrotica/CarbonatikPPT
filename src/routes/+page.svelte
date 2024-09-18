@@ -255,7 +255,7 @@
 				<h2>6. Pillars of Non-Response</h2>
 			</header>
 			<figure>
-				<img src="Images/napkin-selection (26).png" alt="Causes of Non-Response" width="50%" />
+				<img src="Images/napkin-selection (26).png" alt="Causes of Non-Response" width="40%" />
 				<figcaption>Pillars of Non-Response</figcaption>
 			</figure>
 			<article>
@@ -585,8 +585,8 @@
 		font-family: 'Poppins', sans-serif;
 	}
     * {
-    margin-top: 5px;
-    margin-bottom: 5px;
+    margin: 2px;
+    padding: 0px;
   }
     p, li {
         font-size: 12px;
@@ -607,4 +607,5 @@
     margin: 0;
     padding: 2px;  /* Adjust this value based on your needs */
   }
+  
 </style>
