@@ -21,7 +21,7 @@
 			markdown: {
 				smartypants: true
 			},
-			margin: 0.4,
+			margin: 0.3,
 
 			//width: 800
 			// height: 900

@@ -36,7 +36,7 @@
 			// disableLayout: true,
 			//width: '100%',
 			//height: '100%',
-			margin: 0.4,
+			margin: 0.3,
 			minScale: 0.5,
 			maxScale: 1.5
 		});
