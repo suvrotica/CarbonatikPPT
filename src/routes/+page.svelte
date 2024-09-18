@@ -58,6 +58,7 @@
                 <header>
                     <h2>1. Introduction</h2>
                 </header>
+                <img src="Images/napkin-selection (5).png" alt="Survey Illustration" width="60%"/>
                 <ul>
                     <li>
                         <strong>National Sample Surveys in India</strong>:
@@ -136,7 +137,7 @@
                 <header>
                     <h2>4. 4 Quadrant Analysis of Non-Response Factors</h2>
                 </header>
-                <img src="Images/napkin-selection (3).png" alt="4 Quadrant Analysis" width="60%"/>
+                <img src="Images/napkin-selection (1).png" alt="4 Quadrant Analysis" width="60%"/>
                 <ul>
                     <li>
                         <strong>Privacy Concerns</strong>:
@@ -253,7 +254,7 @@
                 <header>
                     <h2>7. The Funnel of Implications</h2>
                 </header>
-                <img src="Images/napkin-selection (31).png" alt="4 Quadrant Analysis"/>
+                <img src="Images/napkin-selection (31).png" alt="4 Quadrant Analysis" width="50%"/>
                 <ul>
                     <li>
                         <strong>Effect on Survey Results</strong>:
@@ -323,7 +324,7 @@
                 <header>
                     <h2>9. Proposed Strategies</h2>
                 </header>
-                <img src="Images/napkin-selection (39).png" alt="4 Quadrant Analysis"/>
+                <img src="Images/napkin-selection (39).png" alt="4 Quadrant Analysis" width=60%/>
                 <ul>
                     <li>
                         <strong>Building Trust Through Education</strong>:
@@ -367,7 +368,7 @@
                 <header>
                     <h2>10. Methodological Adjustments</h2>
                 </header>
-                <img src="Images/napkin-selection (43).png" alt="4 Quadrant Analysis"/>
+                <img src="Images/napkin-selection (43).png" alt="4 Quadrant Analysis" width="60%"/>
                 <ul>
                     <li>
                         <strong>Statistical Techniques</strong>:
