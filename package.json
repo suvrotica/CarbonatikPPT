@@ -31,6 +31,6 @@
 	"dependencies": {
 		"@picocss/pico": "^1.5.10",
 		"@types/reveal.js": "^4.4.2",
-		"reveal.js": "^4.5.0"
+		"reveal.js": "^4.6.1"
 	}
 }
